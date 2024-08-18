@@ -14,6 +14,9 @@
 ## Schedule Overview
 ![Image](/img/bootcamp-schedule-verizon-2024.png "Bootcamp Schedule Overview")
 
+## Sample Daily Schedules
+![Image](/img/daily-schedule-verizon-2024.png "Sample Daily Schedules")
+
 ## Resources
 
 ### Helpful Resources
