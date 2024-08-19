@@ -5,7 +5,7 @@
 ## Daily Sessions
 |Day|Topic|Recording|Resources|
 |-----| ------------- |---------------------|--------|
-|Aug 19|Fundamentals||[slides](https://docs.google.com/presentation/d/1Rve9QZJLpRS2d3BAFwE6kGnhb2e_VdhaygBAxkpfGRQ)
+|Aug 19|Fundamentals||[slides](https://docs.google.com/presentation/d/1Rve9QZJLpRS2d3BAFwE6kGnhb2e_VdhaygBAxkpfGRQ), [demo](/bootcamp/week1/demo/)
 |Aug 20|Variables & Expressions|
 |Aug 21|Conditionals|
 |Aug 22|Functions|
