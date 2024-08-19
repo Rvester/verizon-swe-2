@@ -8,7 +8,7 @@
 ## Cohort Resources
 | Link | Purpose |
 | --- | --- |
-| [Codio](https:/my.multiverse.io) | Curriculum Hub |
+| [My Multiverse](https:/my.multiverse.io) | Curriculum Hub |
 | [Zoom](https://multiverse-io.zoom.us/my/laurie.corrin) | Live Session Location |
 | [Bootcamp Schedule](https://docs.google.com/spreadsheets/d/1evRH-v0G-UEDs0QeskNBIWkVEZrcweXuFcnXdKyVGts)|Detailed Schedule
 | [Laurie's Calendly 1:1 Coaching](https://calendly.com/laurie-corrin/1-1-coaching-meeting) | Monthly Coaching Meeting |
