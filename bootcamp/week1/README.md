@@ -11,6 +11,15 @@
 |Aug 22|Functions|
 |Aug 23|Rock, Paper, Scissors Project|
 
+## Squads
+|Squad|Members|
+|-----|-------|
+|1|Adrian, Blake, Clement, Daniel|
+|2|Evan, Jordan, Justin, Kenny|
+|3|Kofi, Lilit, Luis, Mahdi|
+|4|Monikai, Rasheem, Rubin|
+|5|Sione, Tiffany, Yawo|
+
 ## Schedule Overview
 ![Image](/img/bootcamp-schedule-verizon-2024.png "Bootcamp Schedule Overview")
 
