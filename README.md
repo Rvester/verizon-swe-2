@@ -10,7 +10,6 @@
 | --- | --- |
 | [My Multiverse](https:/my.multiverse.io) | Curriculum Hub |
 | [Zoom](https://multiverse-io.zoom.us/my/laurie.corrin) | Live Session Location |
-| [Bootcamp Schedule](https://docs.google.com/spreadsheets/d/1evRH-v0G-UEDs0QeskNBIWkVEZrcweXuFcnXdKyVGts)|Detailed Schedule
 | [Laurie's Calendly 1:1 Coaching](https://calendly.com/laurie-corrin/1-1-coaching-meeting) | Monthly Coaching Meeting |
 | [Laurie's Calendly 15 Minute Meet](https://calendly.com/laurie-corrin/15-min) | Check-in Between Sessions |
 | [Apprentice Success Repo](https://github.com/MultiverseLearningProducts/SWE-APPRENTICE-SUCCESS/) | Extra lessons and practice on our bootcamp topics for all levels
