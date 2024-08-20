@@ -5,8 +5,8 @@
 ## Daily Sessions
 |Day|Topic|Recording|Resources|
 |-----| ------------- |---------------------|--------|
-|Aug 19|Fundamentals|[Zoom](https://multiverse-io.zoom.us/rec/share/mhDrCxf4bxXT0W1q-xSpVv4itIxstMbruH6UyzGwwvKRR3yxhjF-YDlOkYrQWhnA.aSV2F7RNaN_5lMYd) (Passcode: n7cSrt$1)|[slides](https://docs.google.com/presentation/d/1Rve9QZJLpRS2d3BAFwE6kGnhb2e_VdhaygBAxkpfGRQ), [demo](/bootcamp/week1/demo/)
-|Aug 20|Variables & Expressions|
+|Aug 19|Fundamentals|[Zoom](https://multiverse-io.zoom.us/rec/share/mhDrCxf4bxXT0W1q-xSpVv4itIxstMbruH6UyzGwwvKRR3yxhjF-YDlOkYrQWhnA.aSV2F7RNaN_5lMYd) (Passcode: n7cSrt$1)|[slides](https://docs.google.com/presentation/d/1Rve9QZJLpRS2d3BAFwE6kGnhb2e_VdhaygBAxkpfGRQ), [demo](/bootcamp/week1/day1/demo/)
+|Aug 20|Variables & Expressions||[slides](https://docs.google.com/presentation/d/1-R5a9YIJTrvA7JFVe-07-wYW5NmVe4RfUbK31uUM0Pw)
 |Aug 21|Conditionals|
 |Aug 22|Functions|
 |Aug 23|Rock, Paper, Scissors Project|
