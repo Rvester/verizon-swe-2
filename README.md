@@ -20,6 +20,17 @@
 
 ## Sample Daily Schedules
 ![Image](/img/daily-schedule-verizon-2024.png "Sample Daily Schedules")
+
+### Extra Challenge
+* [edabit](https://edabit.com) - challenges and tutorials
+* [codewars](https://www.codewars.com/) - achieve mastery through practice. You can view how others solved the problem.
+* [Leet Code](https://leetcode.com/) - practice for technical interviews.
+* [AlgoCademy](https://algocademy.com/) - practice for technical interviews, tutorials.
+* [Free Code Camp](https://www.freecodecamp.org/) - tutorials
+* [Project Euler](https://projecteuler.net/) - mathematical/computer programming based problems. No instruction.
+* [CodeKata](http://codekata.com/) - more detailed discussions of certain challenges. c 2013.
+* [exercism](https://exercism.org/) - learn and practice many different languages
+
 ---
 <br />
 
