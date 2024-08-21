@@ -6,8 +6,8 @@
 |Day|Topic|Recording|Resources|
 |-----| ------------- |---------------------|--------|
 |Aug 19|Fundamentals|[Zoom](https://multiverse-io.zoom.us/rec/share/mhDrCxf4bxXT0W1q-xSpVv4itIxstMbruH6UyzGwwvKRR3yxhjF-YDlOkYrQWhnA.aSV2F7RNaN_5lMYd) (Passcode: n7cSrt$1)|[slides](https://docs.google.com/presentation/d/1Rve9QZJLpRS2d3BAFwE6kGnhb2e_VdhaygBAxkpfGRQ), [demo](/bootcamp/week1/day1/demo/)
-|Aug 20|Variables & Expressions|[Zoom](https://multiverse-io.zoom.us/rec/share/VL0ohgcfS3Jv4y0T5iTJpGTkCqxInD1veKHja7gY5ofZ1SL-1ZP4kih2_zRusChr.HbtUjWNzd-tcYbz1) (Passcode: @Ue8xzVy)|[slides](https://docs.google.com/presentation/d/1-R5a9YIJTrvA7JFVe-07-wYW5NmVe4RfUbK31uUM0Pw)
-|Aug 21|Conditionals||[slides](https://docs.google.com/presentation/d/1VOGeRtYC3TVbvwCHrZjsbFTxngvX6Nn7fQMtwfRvzHQ)
+|Aug 20|Variables & Expressions|[Zoom](https://multiverse-io.zoom.us/rec/share/VL0ohgcfS3Jv4y0T5iTJpGTkCqxInD1veKHja7gY5ofZ1SL-1ZP4kih2_zRusChr.HbtUjWNzd-tcYbz1) (Passcode: @Ue8xzVy)|[slides](https://docs.google.com/presentation/d/1-R5a9YIJTrvA7JFVe-07-wYW5NmVe4RfUbK31uUM0Pw), [demo](/bootcamp/week1/day2/demo/)
+|Aug 21|Conditionals||[slides](https://docs.google.com/presentation/d/1VOGeRtYC3TVbvwCHrZjsbFTxngvX6Nn7fQMtwfRvzHQ), [demo](/bootcamp/week1/day3/demo/), [switch statements](/bootcamp/week1/day3/switch/)
 |Aug 22|Functions|
 |Aug 23|Rock, Paper, Scissors Project|
 
@@ -36,6 +36,7 @@
 * [w3schools JavaScript Tutorial](https://www.w3schools.com/js/) - examples to try
 * [Conditional (ternary) operator](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Conditional_operator) - official docs
 * [React ES6 Ternary Operator](https://www.w3schools.com/react/react_es6_ternary.asp) - w3schools
+* [switch statements](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/switch) - official docs (this is an extension topic)
 
 ### Extra Challenge
 * [general resources](/README.md/#extra-challenge) - front page of this course repo
