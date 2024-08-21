@@ -7,7 +7,7 @@
 |-----| ------------- |---------------------|--------|
 |Aug 19|Fundamentals|[Zoom](https://multiverse-io.zoom.us/rec/share/mhDrCxf4bxXT0W1q-xSpVv4itIxstMbruH6UyzGwwvKRR3yxhjF-YDlOkYrQWhnA.aSV2F7RNaN_5lMYd) (Passcode: n7cSrt$1)|[slides](https://docs.google.com/presentation/d/1Rve9QZJLpRS2d3BAFwE6kGnhb2e_VdhaygBAxkpfGRQ), [demo](/bootcamp/week1/day1/demo/)
 |Aug 20|Variables & Expressions|[Zoom](https://multiverse-io.zoom.us/rec/share/VL0ohgcfS3Jv4y0T5iTJpGTkCqxInD1veKHja7gY5ofZ1SL-1ZP4kih2_zRusChr.HbtUjWNzd-tcYbz1) (Passcode: @Ue8xzVy)|[slides](https://docs.google.com/presentation/d/1-R5a9YIJTrvA7JFVe-07-wYW5NmVe4RfUbK31uUM0Pw)
-|Aug 21|Conditionals|
+|Aug 21|Conditionals||[slides](https://docs.google.com/presentation/d/1VOGeRtYC3TVbvwCHrZjsbFTxngvX6Nn7fQMtwfRvzHQ)
 |Aug 22|Functions|
 |Aug 23|Rock, Paper, Scissors Project|
 
