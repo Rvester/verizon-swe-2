@@ -9,7 +9,7 @@
 |Aug 20|Variables & Expressions|[Zoom](https://multiverse-io.zoom.us/rec/share/VL0ohgcfS3Jv4y0T5iTJpGTkCqxInD1veKHja7gY5ofZ1SL-1ZP4kih2_zRusChr.HbtUjWNzd-tcYbz1) (Passcode: @Ue8xzVy)|[slides](https://docs.google.com/presentation/d/1-R5a9YIJTrvA7JFVe-07-wYW5NmVe4RfUbK31uUM0Pw), [demo](/bootcamp/week1/day2/demo/)
 |Aug 21|Conditionals|[Zoom](https://multiverse-io.zoom.us/rec/share/VyBgQiEop_EtuI-o4Os0FwFaaKzJTXLJGyICLXLPZLoV6Zyk6CLCN_lgUkwI6frt.Rrdoz9glJo2cbGR8) (Passcode: kW2RcVT.)|[slides](https://docs.google.com/presentation/d/1VOGeRtYC3TVbvwCHrZjsbFTxngvX6Nn7fQMtwfRvzHQ), [demo](/bootcamp/week1/day3/demo/), [switch statements](/bootcamp/week1/day3/switch/)
 |Aug 22|Functions|[Zoom](https://multiverse-io.zoom.us/rec/share/O0rOW6FEF3NxcKV0hWV-eJ09krOFB-7paPcIsuZbm91Xu0XE-2J-u1va5Kutq_eF.2u3VefN3jckfch-t) (Passcode: %d1!EgQ5)|[slides](https://docs.google.com/presentation/d/1_sMtzGyoDL3oe2CjCUGSkvmNIqaXEIkKfls5R9vq25o/edit?usp=sharing)
-|Aug 23|Rock, Paper, Scissors Project||[slides](https://docs.google.com/presentation/d/1Vq98Dv88Mp_1COBzz8JTdWinoCOBnmiQSCoZtgbT3t4)
+|Aug 23|Rock, Paper, Scissors Project|[Zoom](https://multiverse-io.zoom.us/rec/share/K7L69AVjbat-Pkz_DNY17zuS54ktvZOfpEpKc4WaDW3Al86kvG1l8FSVp208vcrl.5IMMWIQcJZEefMZx) (Passcode: dr?a2$Xr)|[slides](https://docs.google.com/presentation/d/1Vq98Dv88Mp_1COBzz8JTdWinoCOBnmiQSCoZtgbT3t4)
 
 ## Squads
 |Squad|Members|
