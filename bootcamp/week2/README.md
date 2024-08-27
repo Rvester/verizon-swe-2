@@ -27,6 +27,9 @@
 ![Image](/img/daily-schedule-verizon-2024.png "Sample Daily Schedules")
 
 ## Resources
+* [Arrow Functions Cheatsheet](https://dev.to/samanthaming/es6-arrow-functions-cheatsheet-1cn)
+* [Arrow Functions vs Normal Functions in JavaScript | The Syntax and 5 Other Differences](https://youtu.be/M10gzHpIUDw) - video (16 min)
+
 
 ### Helpful Resources
 * [Multiverse Student Success](https://github.com/MultiverseLearningProducts/SWE-APPRENTICE-SUCCESS) - extra practice at the Primer, Progressor, and Prodigy levels
