@@ -8,7 +8,7 @@
 |Aug 26|Arrays|*asynchronous*|[pre-recorded demo](https://zoom.us/clips/share/reGiGk5KWaqNdpaMQQLpBOSeloZnuV8g8WWHr_vnrNI397tV_byEt5Mrb-qQue398TdfcL7AvI5shdi8Zo9Zhxms.M1FKSoXDU9yNq6aQ), [slides](https://docs.google.com/presentation/d/17JW-LAaNHIlj1QnECCmpov8wGRIMngdS72WaZ6iIan4), [demo](/bootcamp/week2/day1/demo/)
 |Aug 27|Objects|[Zoom](https://multiverse-io.zoom.us/rec/share/Fb9isXMPmu1_umfLgjedqL8AqOfYDgU_BmNXoM3p7cJ3MaiWRwWVjiphbW_WFj4.MSJZrq-TFqSzfhYw) (Passcode: atjQ4V8#)|[slides](https://docs.google.com/presentation/d/10Qz5bi62K5-NCrwdzFtMWqNRYOs9KKmO1OL_sMeIgd0), [demo](/bootcamp/week2/day2/demo/), [arrow functions](/bootcamp/week2/day2/arrow/), [copy references](/bootcamp/week2/day2/copy/)
 |Aug 28|Loops|[Zoom](https://multiverse-io.zoom.us/rec/share/AZM-_fduQqASMJ60-t2_Ral8zbqlKVw6hE9mVU7QRM5OAXVqMribxgx9pPBOLuWs.tIOWWLAPtnmSpl09) (Passcode: ^Jb.8E6?)|[slides](https://docs.google.com/presentation/d/17L_yNxwNKgaArqOQOnOpiilwB1_VWnIvJwcaDoKtT8I), [demo](/bootcamp/week2/day3/demo/), [for...in and for...of](/bootcamp/week2/day3/for/)
-|Aug 29|Recursion||[slides](https://docs.google.com/presentation/d/1DEjZ4T96jK8uqPur9j47P6eTgfv9pAZ-nArij65sLwU)
+|Aug 29|Recursion||[slides](https://docs.google.com/presentation/d/1DEjZ4T96jK8uqPur9j47P6eTgfv9pAZ-nArij65sLwU), [demo](/bootcamp/week2/day4/demo/)
 |Aug 30|Cash Register Project
 
 ## Squads
